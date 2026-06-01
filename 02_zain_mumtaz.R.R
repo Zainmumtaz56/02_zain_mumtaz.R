@@ -1,5 +1,5 @@
 ## Assignment 2: ggplot2 precipitation data
-## Author: Jan Ahmad Jamal
+## Author: Zain Mumtaz
 ## Put this script in the same folder as prec_data.rds and run from top to bottom.
 
 ## load packages
